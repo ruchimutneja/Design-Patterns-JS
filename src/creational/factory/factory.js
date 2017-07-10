@@ -9,6 +9,7 @@ function Bmw(model, price, maxSpeed) {
     this.model = model;
     this.price = price;
     this.maxSpeed = maxSpeed;
+    //fgfgfg
 }
 
 module.exports = bmwFactory;
